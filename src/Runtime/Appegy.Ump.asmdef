@@ -1,7 +1,9 @@
 {
     "name": "Appegy.Ump",
     "rootNamespace": "Appegy.Ump",
-    "references": [],
+    "references": [
+        "UniTask"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
