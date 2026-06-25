@@ -1,0 +1,17 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace "io.appegy.ump.proguard"
+    compileSdk 36
+
+    defaultConfig {
+        minSdk 29
+        consumerProguardFiles 'proguard.txt'
+    }
+
+    lint { abortOnError false }
+
+    sourceSets {
+        main { manifest.srcFile 'AndroidManifest.xml' }
+    }
+}
