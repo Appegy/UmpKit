@@ -1,0 +1,22 @@
+{
+  "name": "com.appegy.ump-kit",
+  "displayName": "Appegy: UMP Kit",
+  "description": "Thin Unity wrapper around the Google User Messaging Platform (UMP) consent SDK. Drive the GDPR/CMP consent form on your own schedule.",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/Appegy/UmpKit",
+  "changelogUrl": "https://github.com/Appegy/UmpKit/releases",
+  "license": "MIT",
+  "keywords": [
+    "UMP",
+    "Consent",
+    "GDPR",
+    "Privacy",
+    "CMP"
+  ],
+  "author": {
+    "name": "Appegy",
+    "email": "imurashka.me@gmail.com",
+    "url": "https://github.com/Appegy"
+  }
+}
